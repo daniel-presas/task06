@@ -14,7 +14,7 @@
     include 'Person.php';
 
     // Creamos un objeto de la clase Person y mostramos un mensaje
-    $person = new Person('Eva');
+    $person = new Person('Daniel Presas Carmona');
     echo '<p>Hello, ' . $person->getName() . '!</p>';
     ?>
 </body>
